@@ -1,7 +1,7 @@
 # Breckenridge-Rock-Types
 Glaciation Deposits of the Breckenridge Quadrangle
 
-Link to Source: Colorado geological survey data files, Geologic Map of the Breckenridge Quadrangle, Summit and Park Counties, Colorado
+Link to Source: Colorado geological survey data files, Geologic Map of the Breckenridge Quadrangle, Summit and Park Counties, Colorado  
 https://coloradogeologicalsurvey.org/publications/geologic-map-breckenridge-quadrangle-summit-park-colorado/
 
 Link to Source: USGS Mountains, Glaciers, and Mines  
